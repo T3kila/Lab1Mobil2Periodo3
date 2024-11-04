@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">apiCamara</string>
+    <string name="notaAccesoLimitado">
+        Se necesita acceso completo para poder acceder a la camara, puede cambiar
+        los permisos desde la configuracion del telefono
+    </string>
+</resources>
